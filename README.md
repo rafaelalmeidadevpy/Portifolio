@@ -3,7 +3,7 @@
 ## 💻 Desenvolvedor Backend Python Jr| Automação & Dados
 
 📍 **Juiz de Fora, MG, Brasil**  
-🎓 **Ciência da Computação - Estácio 3/10 **  
+🎓 **Ciência da Computação - Estácio 3/10**  
 📊 **Python | SQL | Automação | Análise de Dados**  
 
 ---
