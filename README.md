@@ -1,6 +1,6 @@
 # 🚀 Rafael Almeida  
 
-## 💻 Desenvolvedor Backend Python | Automação & Dados
+## 💻 Desenvolvedor Backend Python Jr| Automação & Dados
 
 📍 **Juiz de Fora, MG, Brasil**  
 🎓 **Ciência da Computação - Estácio**  
