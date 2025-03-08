@@ -30,7 +30,7 @@ monitoramento-veiculos/
 ## ⚙️ Como Configurar o Projeto
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/monitoramento-veiculos.git
+git clone https://github.com/rafaelalmeidadevpy/monitoramento-veiculos.git
 cd monitoramento-veiculos
 ```
 
